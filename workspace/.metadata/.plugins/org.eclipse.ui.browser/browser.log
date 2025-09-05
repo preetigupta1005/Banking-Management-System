@@ -1,0 +1,55 @@
+
+Jun 13, 2024 24:03:38.54 NEW SESSION
+Jun 13, 2024 24:03:38.55 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jun 13, 2024 24:10:39.96 [10096:24808:0613/001039.964:ERROR:interface_endpoint_client.cc(722)] Message 0 rejected by interface blink.mojom.WidgetHost
+Jun 13, 2024 24:12:03.41 [10096:24808:0613/001203.412:ERROR:interface_endpoint_client.cc(722)] Message 0 rejected by interface blink.mojom.WidgetHost
+Jun 13, 2024 24:22:03.59 [10096:24808:0613/002203.586:ERROR:interface_endpoint_client.cc(722)] Message 1 rejected by interface blink.mojom.WidgetHost
+
+Jun 19, 2024 17:56:56.49 NEW SESSION
+Jun 19, 2024 17:56:56.50 Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Jun 19, 2024 17:59:04.55 NEW SESSION
+Jun 19, 2024 17:59:04.59 [7448:24744:0619/175904.555:ERROR:extension_registrar.cc(539)] Failed to unregister service worker for extension ghbmnnjooekpmoecnnnilnnbdlolhkhi
+Jun 19, 2024 17:59:08.73 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jun 19, 2024 18:02:05.78 [7448:21260:0619/180205.784:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Jun 19, 2024 18:02:07.80 [7448:21260:0619/180207.789:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Jun 19, 2024 18:02:29.02 [7448:21260:0619/180229.020:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Jun 19, 2024 18:02:31.03 [7448:21260:0619/180231.036:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Jun 19, 2024 18:02:49.52 [7448:21260:0619/180249.528:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Jun 19, 2024 18:02:50.65 [7448:24744:0619/180250.655:ERROR:device_event_log_impl.cc(196)] [18:02:50.655] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Jun 19, 2024 18:03:21.36 [7448:21260:0619/180321.360:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Jun 19, 2024 18:03:33.46 [7448:21260:0619/180333.461:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Jun 19, 2024 18:38:19.56 Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Jun 19, 2024 18:40:52.98 NEW SESSION
+Jun 19, 2024 18:40:52.99 Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Jun 19, 2024 23:26:02.73 NEW SESSION
+Jun 19, 2024 23:26:02.77 Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Jun 20, 2024 13:09:55.10 NEW SESSION
+Jun 20, 2024 13:09:55.11 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jun 20, 2024 13:13:13.15 [10476:14616:0620/131313.152:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Jun 20, 2024 13:18:51.97 [10476:14616:0620/131851.973:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Jun 20, 2024 13:21:05.78 [10476:14616:0620/132105.785:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Jun 20, 2024 13:30:08.65 [10476:14616:0620/133008.653:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Jun 20, 2024 13:31:14.40 [10476:14616:0620/133114.404:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -109
+Jun 20, 2024 13:41:40.70 [10476:14616:0620/134140.703:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+
+May 30, 2025 24:54:46.92 NEW SESSION
+May 30, 2025 24:54:46.93 [31280:23392:0530/005446.908:ERROR:chrome\browser\policy\cloud\fm_registration_token_uploader.cc:179] Client is missing for kUser scope
+May 30, 2025 24:54:47.06 [31280:47940:0530/005447.066:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+May 30, 2025 24:54:48.24 Created TensorFlow Lite XNNPACK delegate for CPU.
+May 30, 2025 24:54:48.29 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+May 30, 2025 24:55:13.77 [31280:47940:0530/005513.775:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+May 30, 2025 24:56:04.39 [31280:47940:0530/005604.398:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+May 30, 2025 24:58:03.44 [31280:47940:0530/005803.449:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+May 30, 2025 01:01:28.30 [31280:47940:0530/010128.306:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+May 30, 2025 01:02:12.33 [31280:47940:0530/010212.332:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+May 30, 2025 01:02:14.86 [31280:23392:0530/010214.865:ERROR:chrome\browser\policy\cloud\fm_registration_token_uploader.cc:179] Client is missing for kUser scope
+May 30, 2025 01:02:20.55 [31280:23392:0530/010220.552:ERROR:mojo\public\cpp\bindings\lib\interface_endpoint_client.cc:725] Message 1 rejected by interface blink.mojom.WidgetHost
+May 30, 2025 01:02:36.21 [31280:47940:0530/010236.219:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+May 30, 2025 01:03:23.31 [31280:47940:0530/010323.315:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+May 30, 2025 01:05:10.08 [31280:47940:0530/010510.082:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+May 30, 2025 01:07:21.98 [31280:47940:0530/010721.987:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+May 30, 2025 01:08:51.15 [31280:47940:0530/010851.157:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT

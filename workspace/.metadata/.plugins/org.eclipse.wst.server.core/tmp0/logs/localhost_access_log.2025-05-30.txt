@@ -1,0 +1,13 @@
+127.0.0.1 - - [30/May/2025:00:54:39 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [30/May/2025:00:54:42 +0530] "GET /Banking-App/ HTTP/1.1" 200 8466
+0:0:0:0:0:0:0:1 - - [30/May/2025:00:54:42 +0530] "GET /Banking-App/img/p2.jpg HTTP/1.1" 200 31773
+0:0:0:0:0:0:0:1 - - [30/May/2025:00:54:42 +0530] "GET /Banking-App/img/p3.jpg HTTP/1.1" 200 47082
+0:0:0:0:0:0:0:1 - - [30/May/2025:00:54:42 +0530] "GET /Banking-App/all_component/style.css HTTP/1.1" 200 229
+0:0:0:0:0:0:0:1 - - [30/May/2025:00:54:42 +0530] "GET /Banking-App/js/myjs.js HTTP/1.1" 200 656
+0:0:0:0:0:0:0:1 - - [30/May/2025:00:54:42 +0530] "GET /Banking-App/img/b3.jpg HTTP/1.1" 200 146999
+0:0:0:0:0:0:0:1 - - [30/May/2025:00:54:43 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [30/May/2025:00:55:51 +0530] "GET /Banking-App/index.jsp HTTP/1.1" 200 8466
+0:0:0:0:0:0:0:1 - - [30/May/2025:00:55:57 +0530] "GET /Banking-App/create_account.jsp HTTP/1.1" 200 8007
+0:0:0:0:0:0:0:1 - - [30/May/2025:00:55:57 +0530] "GET /Banking-App/js/script.js HTTP/1.1" 200 2225
+0:0:0:0:0:0:0:1 - - [30/May/2025:00:56:06 +0530] "GET /Banking-App/netbanking.jsp HTTP/1.1" 200 5961
+0:0:0:0:0:0:0:1 - - [30/May/2025:00:56:14 +0530] "GET /Banking-App/login.jsp HTTP/1.1" 200 5853
